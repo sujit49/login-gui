@@ -14,11 +14,6 @@ A simple desktop application built with **Python and Tkinter** to securely store
 -   **User-Friendly Interface:** Clean and intuitive GUI built with Tkinter.
 
 ---
-
-## 📸 Preview
-
-> (Optional) Add a screenshot of the app interface here
-
 ---
 
 ## 📁 File Structure
